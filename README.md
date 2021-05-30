@@ -24,6 +24,7 @@ The idea is to build decentralized encrypted file sharing system using Blockchai
 3. Run Dapp
 
     ```sh
+    $ truffle migrate --reset
     $ npm run start
     ```
 
