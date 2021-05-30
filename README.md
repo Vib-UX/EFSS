@@ -32,14 +32,6 @@ The idea is to build decentralized encrypted file sharing system using Blockchai
     Eureka!
 
 
-## Tools and Technology used 
-
-<p align="center">
-<img src="git_img/Dapp_Tools_Tech.png" width="800" title="EFSS Architecture">
-</p>
-	
-
-
 ## Working SS
 
 <p align="center">
@@ -49,6 +41,15 @@ Demonstration of the working result :
 <p align="center">
 <img src="git_img/Upload_working.png" width="800" title="Working SS">
 </p>
+
+## Tools and Technology used 
+
+<p align="center">
+<img src="git_img/Dapp_Tools_Tech.png" width="800" title="EFSS Architecture">
+</p>
+	
+
+
 
 
 ## Contribute
